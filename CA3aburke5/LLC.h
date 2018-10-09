@@ -7,8 +7,16 @@ using namespace std;
 
 class LLC{
 
+	private:
+		struct Node{
+			string data;
+			Node *next = nullptr;
+		};
+		Node* first;
+		Node* last;
+
 	public:
-		
+
 		LLC();
 		LLC( const LLC &l);
 		LLC operator =(const LLC &l); 
@@ -17,7 +25,7 @@ class LLC{
 		bool insert(const string &str);
 		void remove(const string &str);
 		void shuffle();
-		LLC operator +(const LLC &l1,const LLC &l2);
+		LLC operator +(const LLC &l);
 		void head(int n);
 		string tail();
 		friend ostream& operator<<(ostream& out, const LLC& l);
@@ -25,16 +33,8 @@ class LLC{
 		LLC operator +=(int n);
 		int len();
 		void join(LLC other);
-		Node* getFirst();
-		Node* getLast();
+		Node* getFirst() const;
+		Node* getLast() const;
+		
+};
 
-	private:
-		Node* first;
-		Node* last;
-
-}
-
-typedef struct Node{
-	string data;
-	Node *next = nullptr;
-	} Node;

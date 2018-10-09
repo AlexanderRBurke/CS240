@@ -1,23 +1,20 @@
-#
-# Specifiy the target
+CC = g++
+CFLAGS = -Wall -Wextra -DDEBUG -g -pedantic -std=c++14
+
 all:	LLC 
 
-# Specify the object files that the target depends on
-# Also specify the object files needed to create the executable
-Voter:	LLC.o VoterDB.o Main.o
-	g++  Voter.o VoterDB.o Main.o -o Voter
+run: all
+	./LLC
 
-# Specify how the object files should be created from source files
-Voter.o:	Voter.cpp
-	g++ -c Voter.cpp
-	
-VoterDB.o: VoterDB.cpp
-		g++ -c VoterDB.cpp
+LLC: LLC.o
+	$(CC) $(CFLAGS) LLC.o -o LLC 
 
-Main.o: Main.cpp
-	g++ -c Main.cpp
-# Specify the object files and executables that are generated
-# and need to be removed to re-compile the whole thing
+LLC.o:	LLC.h
+	$(CC) $(CFLAGS) -c LLC.cpp -o LLC.o
+
+
 clean:
-	rm -f *.o Voter
+	rm -f *.o LLC
 	
+checkmem:
+	valgrind ./LLC
