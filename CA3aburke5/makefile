@@ -6,12 +6,14 @@ all:	LLC
 run: all
 	./LLC
 
-LLC: LLC.o
-	$(CC) $(CFLAGS) LLC.o -o LLC 
+LLC: LLC.o Main.o
+	$(CC) $(CFLAGS) LLC.o Main.o -o LLC 
 
-LLC.o:	LLC.h
+LLC.o:	LLC.h LLC.cpp
 	$(CC) $(CFLAGS) -c LLC.cpp -o LLC.o
 
+Main.o:	Main.cpp
+	$(CC) $(CFLAGS) -c Main.cpp -o Main.o
 
 clean:
 	rm -f *.o LLC
