@@ -1,10 +1,16 @@
 #include <iostream>
 #include <stdlib.h>
 #include "LLC.h"
+#include "PlayingCard.h"
 #include <vector>
 using namespace std;
 
 int main(){
+
+	PlayingCard* ace = new PlayingCard(1,SPADES);
+	PlayingCard* ten = new PlayingCard(10,CLUBS);
+
+	cout<<*ace;
 	/*
 	LLC* list1 = new LLC();
 	for(int i = 0; i<5;i++){

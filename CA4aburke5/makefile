@@ -8,7 +8,7 @@ run: all
 	./war
 
 war: LLC.o PlayingCard.o Main.o
-	$(CC) $(CFLAGS) LLC.o PlayingCard.o Main.o -o LLC 
+	$(CC) $(CFLAGS) LLC.o PlayingCard.o Main.o -o war  
 
 LLC.o:	LLC.h LLC.cpp
 	$(CC) $(CFLAGS) -c LLC.cpp -o LLC.o
@@ -20,8 +20,8 @@ Main.o:	Main.cpp
 	$(CC) $(CFLAGS) -c Main.cpp -o Main.o
 
 clean:
-	rm -f *.o LLC
+	rm -f *.o war 
 	
 checkmem:
-	valgrind ./LLC
+	valgrind ./war
 
