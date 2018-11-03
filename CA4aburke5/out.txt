@@ -1,0 +1,2151 @@
+[TH, 4D, KC, 9H, 8C, 5C, 4C, 5S, 3S, AC, 8D, TC, 9D, KD, 6S, QC, QH, TD, 6C, 5H, 8H, AH, JD, TS, QD, 6H]
+[9S, KH, 2H, 5D, 9C, 4H, 7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S]
+10
+9
+10 versus 9
+Battle winner is Alex
+[KH, 2H, 5D, 9C, 4H, 7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S]
+4
+13
+4 versus 13
+Battle winner is Henry
+[2H, 5D, 9C, 4H, 7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH]
+13
+2
+13 versus 2
+Battle winner is Alex
+[5D, 9C, 4H, 7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH]
+9
+5
+9 versus 5
+Battle winner is Alex
+[9C, 4H, 7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH]
+8
+9
+8 versus 9
+Battle winner is Henry
+[4H, 7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C]
+5
+4
+5 versus 4
+Battle winner is Alex
+[7H, AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C]
+4
+7
+4 versus 7
+Battle winner is Henry
+[AS, AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H]
+5
+1
+5 versus 1
+Battle winner is Henry
+[AD, 7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS]
+3
+1
+3 versus 1
+Battle winner is Henry
+[7D, QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD]
+1
+7
+1 versus 7
+Battle winner is Alex
+[QS, 3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD]
+8
+12
+8 versus 12
+Battle winner is Henry
+[3C, 7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS]
+10
+3
+10 versus 3
+Battle winner is Alex
+[7C, 7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS]
+9
+7
+9 versus 7
+Battle winner is Alex
+[7S, JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS]
+13
+7
+13 versus 7
+Battle winner is Alex
+[JC, 3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS]
+6
+11
+6 versus 11
+Battle winner is Henry
+[3D, 4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC]
+12
+3
+12 versus 3
+Battle winner is Alex
+[4S, 2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC]
+12
+4
+12 versus 4
+Battle winner is Alex
+[2D, JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC]
+10
+2
+10 versus 2
+Battle winner is Alex
+[JS, KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC]
+6
+11
+6 versus 11
+Battle winner is Henry
+[KS, 6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS]
+5
+13
+5 versus 13
+Battle winner is Henry
+[6D, JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS]
+8
+6
+8 versus 6
+Battle winner is Alex
+[JH, 2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS]
+1
+11
+1 versus 11
+Battle winner is Alex
+[2S, 3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS]
+11
+2
+11 versus 2
+Battle winner is Alex
+[3H, 2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS]
+10
+3
+10 versus 3
+Battle winner is Alex
+[2C, 8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS]
+12
+2
+12 versus 2
+Battle winner is Alex
+[8S, 4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS]
+6
+8
+6 versus 8
+Battle winner is Henry
+[4D, KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S]
+10
+4
+10 versus 4
+Battle winner is Alex
+[KH, 8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S]
+9
+13
+9 versus 13
+Battle winner is Henry
+[8C, 9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH]
+13
+8
+13 versus 8
+Battle winner is Alex
+[9C, 4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH]
+2
+9
+2 versus 9
+Battle winner is Henry
+[4C, 7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C]
+9
+4
+9 versus 4
+Battle winner is Alex
+[7H, 5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C]
+5
+7
+5 versus 7
+Battle winner is Henry
+[5S, AS, 3S, AD, 8D, QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H]
+5
+5
+WAR
+10 versus 8
+War winner is Alex
+Battle winner is Alex
+[QS, 6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H]
+3
+12
+3 versus 12
+Battle winner is Henry
+[6S, JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS]
+9
+6
+9 versus 6
+Battle winner is Alex
+[JC, 6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS]
+7
+11
+7 versus 11
+Battle winner is Henry
+[6C, JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC]
+13
+6
+13 versus 6
+Battle winner is Alex
+[JS, 5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC]
+7
+11
+7 versus 11
+Battle winner is Henry
+[5H, KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS]
+12
+5
+12 versus 5
+Battle winner is Alex
+[KS, 6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS]
+3
+13
+3 versus 13
+Battle winner is Henry
+[6H, 8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS]
+12
+6
+12 versus 6
+Battle winner is Alex
+[8S, 9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS]
+4
+8
+4 versus 8
+Battle winner is Henry
+[9S, KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S]
+10
+9
+10 versus 9
+Battle winner is Alex
+[KH, 2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S]
+2
+13
+2 versus 13
+Battle winner is Henry
+[2H, 9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH]
+8
+2
+8 versus 2
+Battle winner is Alex
+[9C, 5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH]
+6
+9
+6 versus 9
+Battle winner is Henry
+[5D, 7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C]
+1
+5
+1 versus 5
+Battle winner is Alex
+[7H, 3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C]
+11
+7
+11 versus 7
+Battle winner is Alex
+[3C, QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C]
+11
+3
+11 versus 3
+Battle winner is Alex
+[QS, 7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C]
+2
+12
+2 versus 12
+Battle winner is Henry
+[7C, JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C, 2S, QS]
+10
+7
+10 versus 7
+Battle winner is Alex
+[JC, 7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C, 2S, QS]
+3
+11
+3 versus 11
+Battle winner is Henry
+[7S, JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C, 2S, QS, 3H, JC]
+12
+7
+12 versus 7
+Battle winner is Alex
+[JS, 3D, KS, 4S, 8S, 2D, KH, 6D, 9C, 2S, QS, 3H, JC]
+2
+11
+2 versus 11
+Battle winner is Henry
+[3D, KS, 4S, 8S, 2D, KH, 6D, 9C, 2S, QS, 3H, JC, 2C, JS]
+10
+3
+10 versus 3
+Battle winner is Alex
+[KS, 4S, 8S, 2D, KH, 6D, 9C, 2S, QS, 3H, JC, 2C, JS]
+4
+13
+4 versus 13
+Battle winner is Henry
+[4S, 8S, 2D, KH, 6D, 9C, 2S, QS, 3H, JC, 2C, JS, 4D, KS]
+13
+4
+13 versus 4
+Battle winner is Alex
+[8S, 2D, KH, 6D, 9C, 2S, QS, 3H, JC, 2C, JS, 4D, KS]
+8
+8
+WAR
+5 versus 9
+War winner is Henry
+Battle winner is Henry
+[2S, QS, 3H, JC, 2C, JS, 4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S]
+4
+2
+4 versus 2
+Battle winner is Alex
+[QS, 3H, JC, 2C, JS, 4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S]
+4
+12
+4 versus 12
+Battle winner is Henry
+[3H, JC, 2C, JS, 4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS]
+1
+3
+1 versus 3
+Battle winner is Alex
+[JC, 2C, JS, 4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS]
+1
+11
+1 versus 11
+Battle winner is Alex
+[2C, JS, 4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS]
+7
+2
+7 versus 2
+Battle winner is Alex
+[JS, 4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS]
+7
+11
+7 versus 11
+Battle winner is Henry
+[4D, KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS]
+10
+4
+10 versus 4
+Battle winner is Alex
+[KS, 8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS]
+10
+13
+10 versus 13
+Battle winner is Henry
+[8C, 8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS]
+9
+8
+9 versus 8
+Battle winner is Alex
+[8S, 9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS]
+6
+8
+6 versus 8
+Battle winner is Henry
+[9H, 9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S]
+13
+9
+13 versus 9
+Battle winner is Alex
+[9H, 4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S]
+6
+9
+6 versus 9
+Battle winner is Henry
+[4C, 4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+12
+4
+12 versus 4
+Battle winner is Alex
+[4C, 5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+5
+4
+5 versus 4
+Battle winner is Alex
+[5C, 5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+12
+5
+12 versus 5
+Battle winner is Alex
+[5C, 5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+6
+5
+6 versus 5
+Battle winner is Alex
+[5S, 5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+10
+5
+10 versus 5
+Battle winner is Alex
+[5S, 4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+9
+5
+9 versus 5
+Battle winner is Alex
+[4H, QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+8
+4
+8 versus 4
+Battle winner is Alex
+[QS, 7D, JS, TC, KS, 6S, 8S, 6C, 9H]
+2
+12
+2 versus 12
+Battle winner is Henry
+[7D, JS, TC, KS, 6S, 8S, 6C, 9H, 2H, QS]
+1
+7
+1 versus 7
+Battle winner is Alex
+[JS, TC, KS, 6S, 8S, 6C, 9H, 2H, QS]
+5
+11
+5 versus 11
+Battle winner is Henry
+[TC, KS, 6S, 8S, 6C, 9H, 2H, QS, 5D, JS]
+11
+10
+11 versus 10
+Battle winner is Alex
+[KS, 6S, 8S, 6C, 9H, 2H, QS, 5D, JS]
+7
+13
+7 versus 13
+Battle winner is Henry
+[6S, 8S, 6C, 9H, 2H, QS, 5D, JS, 7H, KS]
+11
+6
+11 versus 6
+Battle winner is Alex
+[8S, 6C, 9H, 2H, QS, 5D, JS, 7H, KS]
+3
+8
+3 versus 8
+Battle winner is Henry
+[6C, 9H, 2H, QS, 5D, JS, 7H, KS, 3C, 8S]
+10
+6
+10 versus 6
+Battle winner is Alex
+[9H, 2H, QS, 5D, JS, 7H, KS, 3C, 8S]
+7
+9
+7 versus 9
+Battle winner is Henry
+[2H, QS, 5D, JS, 7H, KS, 3C, 8S, 7C, 9H]
+12
+2
+12 versus 2
+Battle winner is Alex
+[QS, 5D, JS, 7H, KS, 3C, 8S, 7C, 9H]
+7
+12
+7 versus 12
+Battle winner is Henry
+[5D, JS, 7H, KS, 3C, 8S, 7C, 9H, 7S, QS]
+10
+5
+10 versus 5
+Battle winner is Alex
+[JS, 7H, KS, 3C, 8S, 7C, 9H, 7S, QS]
+3
+11
+3 versus 11
+Battle winner is Henry
+[7H, KS, 3C, 8S, 7C, 9H, 7S, QS, 3D, JS]
+13
+7
+13 versus 7
+Battle winner is Alex
+[KS, 3C, 8S, 7C, 9H, 7S, QS, 3D, JS]
+4
+13
+4 versus 13
+Battle winner is Henry
+[3C, 8S, 7C, 9H, 7S, QS, 3D, JS, 4S, KS]
+4
+3
+4 versus 3
+Battle winner is Alex
+[8S, 7C, 9H, 7S, QS, 3D, JS, 4S, KS]
+2
+8
+2 versus 8
+Battle winner is Henry
+[7C, 9H, 7S, QS, 3D, JS, 4S, KS, 2S, 8S]
+1
+7
+1 versus 7
+Battle winner is Alex
+[9H, 7S, QS, 3D, JS, 4S, KS, 2S, 8S]
+3
+9
+3 versus 9
+Battle winner is Henry
+[7S, QS, 3D, JS, 4S, KS, 2S, 8S, 3H, 9H]
+1
+7
+1 versus 7
+Battle winner is Alex
+[QS, 3D, JS, 4S, KS, 2S, 8S, 3H, 9H]
+11
+12
+11 versus 12
+Battle winner is Henry
+[3D, JS, 4S, KS, 2S, 8S, 3H, 9H, JC, QS]
+7
+3
+7 versus 3
+Battle winner is Alex
+[JS, 4S, KS, 2S, 8S, 3H, 9H, JC, QS]
+2
+11
+2 versus 11
+Battle winner is Henry
+[4S, KS, 2S, 8S, 3H, 9H, JC, QS, 2C, JS]
+10
+4
+10 versus 4
+Battle winner is Alex
+[KS, 2S, 8S, 3H, 9H, JC, QS, 2C, JS]
+4
+13
+4 versus 13
+Battle winner is Henry
+[2S, 8S, 3H, 9H, JC, QS, 2C, JS, 4D, KS]
+9
+2
+9 versus 2
+Battle winner is Alex
+[8S, 3H, 9H, JC, QS, 2C, JS, 4D, KS]
+8
+8
+WAR
+4 versus 12
+War winner is Henry
+Battle winner is Henry
+[2C, JS, 4D, KS, 8C, 8S, KD, KD, 9H, 9H, QC, QC, 4C, 4C]
+5
+2
+5 versus 2
+Battle winner is Alex
+[JS, 4D, KS, 8C, 8S, KD, KD, 9H, 9H, QC, QC, 4C, 4C]
+4
+11
+4 versus 11
+Battle winner is Henry
+[4D, KS, 8C, 8S, KD, KD, 9H, 9H, QC, QC, 4C, 4C, 4C, JS]
+12
+4
+12 versus 4
+Battle winner is Alex
+[KS, 8C, 8S, KD, KD, 9H, 9H, QC, QC, 4C, 4C, 4C, JS]
+5
+13
+5 versus 13
+Battle winner is Henry
+[8C, 8S, KD, KD, 9H, 9H, QC, QC, 4C, 4C, 4C, JS, 5C, KS]
+6
+8
+6 versus 8
+Battle winner is Henry
+[8S, KD, KD, 9H, 9H, QC, QC, 4C, 4C, 4C, JS, 5C, KS, 6H, 8C]
+5
+8
+5 versus 8
+Battle winner is Henry
+[KD, KD, 9H, 9H, QC, QC, 4C, 4C, 4C, JS, 5C, KS, 6H, 8C, 5C, 8S]
+10
+13
+10 versus 13
+Battle winner is Henry
+[KD, 9H, 9H, QC, QC, 4C, 4C, 4C, JS, 5C, KS, 6H, 8C, 5C, 8S, TD, KD]
+5
+13
+5 versus 13
+Battle winner is Henry
+[9H, 9H, QC, QC, 4C, 4C, 4C, JS, 5C, KS, 6H, 8C, 5C, 8S, TD, KD, 5S, KD]
+9
+9
+WAR
+1 versus 4
+War winner is Alex
+Battle winner is Alex
+[4C, 4C, JS, 5C, KS, 6H, 8C, 5C, 8S, TD, KD, 5S, KD]
+7
+4
+7 versus 4
+Battle winner is Alex
+[4C, JS, 5C, KS, 6H, 8C, 5C, 8S, TD, KD, 5S, KD]
+11
+4
+11 versus 4
+Battle winner is Alex
+[JS, 5C, KS, 6H, 8C, 5C, 8S, TD, KD, 5S, KD]
+10
+11
+10 versus 11
+Battle winner is Henry
+[5C, KS, 6H, 8C, 5C, 8S, TD, KD, 5S, KD, TC, JS]
+11
+5
+11 versus 5
+Battle winner is Alex
+[KS, 6H, 8C, 5C, 8S, TD, KD, 5S, KD, TC, JS]
+6
+13
+6 versus 13
+Battle winner is Henry
+[6H, 8C, 5C, 8S, TD, KD, 5S, KD, TC, JS, 6S, KS]
+10
+6
+10 versus 6
+Battle winner is Alex
+[8C, 5C, 8S, TD, KD, 5S, KD, TC, JS, 6S, KS]
+6
+8
+6 versus 8
+Battle winner is Henry
+[5C, 8S, TD, KD, 5S, KD, TC, JS, 6S, KS, 6C, 8C]
+12
+5
+12 versus 5
+Battle winner is Alex
+[8S, TD, KD, 5S, KD, TC, JS, 6S, KS, 6C, 8C]
+2
+8
+2 versus 8
+Battle winner is Henry
+[TD, KD, 5S, KD, TC, JS, 6S, KS, 6C, 8C, 2H, 8S]
+10
+10
+WAR
+4 versus 10
+War winner is Henry
+Battle winner is Henry
+[JS, 6S, KS, 6C, 8C, 2H, 8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H]
+3
+11
+3 versus 11
+Battle winner is Henry
+[6S, KS, 6C, 8C, 2H, 8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS]
+1
+6
+1 versus 6
+Battle winner is Alex
+[KS, 6C, 8C, 2H, 8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS]
+7
+13
+7 versus 13
+Battle winner is Henry
+[6C, 8C, 2H, 8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS, 7C, KS]
+1
+6
+1 versus 6
+Battle winner is Alex
+[8C, 2H, 8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS, 7C, KS]
+7
+8
+7 versus 8
+Battle winner is Henry
+[2H, 8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS, 7C, KS, 7S, 8C]
+7
+2
+7 versus 2
+Battle winner is Alex
+[8S, TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS, 7C, KS, 7S, 8C]
+3
+8
+3 versus 8
+Battle winner is Henry
+[TH, TD, 5D, 5D, KC, KC, 7H, 7H, 4H, 4H, 3C, JS, 7C, KS, 7S, 8C, 3D, 8S]
+10
+10
+WAR
+5 versus 13
+War winner is Henry
+Battle winner is Henry
+[KC, 7H, 7H, 4H, 4H, 3C, JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H]
+2
+13
+2 versus 13
+Battle winner is Henry
+[7H, 7H, 4H, 4H, 3C, JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC]
+12
+7
+12 versus 7
+Battle winner is Alex
+[7H, 4H, 4H, 3C, JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC]
+4
+7
+4 versus 7
+Battle winner is Henry
+[4H, 4H, 3C, JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H]
+9
+4
+9 versus 4
+Battle winner is Alex
+[4H, 3C, JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H]
+9
+4
+9 versus 4
+Battle winner is Alex
+[3C, JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H]
+5
+3
+5 versus 3
+Battle winner is Alex
+[JS, 7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H]
+5
+11
+5 versus 11
+Battle winner is Henry
+[7C, KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS]
+8
+7
+8 versus 7
+Battle winner is Alex
+[KS, 7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS]
+8
+13
+8 versus 13
+Battle winner is Henry
+[7S, 8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS]
+4
+7
+4 versus 7
+Battle winner is Henry
+[8C, 3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S]
+4
+8
+4 versus 8
+Battle winner is Henry
+[3D, 8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C]
+1
+3
+1 versus 3
+Battle winner is Alex
+[8S, TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C]
+1
+8
+1 versus 8
+Battle winner is Alex
+[TC, TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C]
+7
+10
+7 versus 10
+Battle winner is Henry
+[TH, 4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC]
+4
+10
+4 versus 10
+Battle winner is Henry
+[4S, 4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH]
+11
+4
+11 versus 4
+Battle winner is Alex
+[4S, 9D, 9D, 2S, 2S, 5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH]
+4
+4
+WAR
+6 versus 2
+War winner is Alex
+Battle winner is Alex
+[5H, 5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH]
+12
+5
+12 versus 5
+Battle winner is Alex
+[5H, 2C, KC, 4D, 7H, 5S, JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH]
+5
+5
+WAR
+6 versus 7
+War winner is Henry
+Battle winner is Henry
+[5S, JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C]
+7
+5
+7 versus 5
+Battle winner is Alex
+[JS, 8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C]
+2
+11
+2 versus 11
+Battle winner is Henry
+[8H, KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS]
+12
+8
+12 versus 8
+Battle winner is Alex
+[KS, 4H, 7S, 4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS]
+7
+13
+7 versus 13
+Battle winner is Henry
+[4H, 7S, 4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS]
+9
+4
+9 versus 4
+Battle winner is Alex
+[7S, 4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS]
+4
+7
+4 versus 7
+Battle winner is Henry
+[4H, 8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S]
+9
+4
+9 versus 4
+Battle winner is Alex
+[8C, 7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S]
+4
+8
+4 versus 8
+Battle winner is Henry
+[7D, TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C]
+5
+7
+5 versus 7
+Battle winner is Henry
+[TC, 4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D]
+3
+10
+3 versus 10
+Battle winner is Henry
+[4C, TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC]
+8
+4
+8 versus 4
+Battle winner is Alex
+[TH, 5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC]
+7
+10
+7 versus 10
+Battle winner is Henry
+[5C, 5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH]
+1
+5
+1 versus 5
+Battle winner is Alex
+[5H, AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH]
+3
+5
+3 versus 5
+Battle winner is Henry
+[AC, AC, 6S, 6S, AC, AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H]
+1
+1
+WAR
+4 versus 1
+War winner is Henry
+Battle winner is Henry
+[AC, 6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C]
+4
+1
+4 versus 1
+Battle winner is Henry
+[6C, 6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC]
+11
+6
+11 versus 6
+Battle winner is Alex
+[6C, 2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC]
+11
+6
+11 versus 6
+Battle winner is Alex
+[2H, JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC]
+5
+2
+5 versus 2
+Battle winner is Alex
+[JS, 7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC]
+5
+11
+5 versus 11
+Battle winner is Henry
+[7H, KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS]
+10
+7
+10 versus 7
+Battle winner is Alex
+[KS, 4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS]
+10
+13
+10 versus 13
+Battle winner is Henry
+[4H, 7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS]
+6
+4
+6 versus 4
+Battle winner is Alex
+[7S, 4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS]
+6
+7
+6 versus 7
+Battle winner is Henry
+[4H, 8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S]
+12
+4
+12 versus 4
+Battle winner is Alex
+[8C, 5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S]
+5
+8
+5 versus 8
+Battle winner is Henry
+[5S, 7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C]
+7
+5
+7 versus 5
+Battle winner is Alex
+[7D, 3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C]
+5
+7
+5 versus 7
+Battle winner is Henry
+[3C, TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D]
+12
+3
+12 versus 3
+Battle winner is Alex
+[TC, 7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D]
+8
+10
+8 versus 10
+Battle winner is Henry
+[7C, TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC]
+9
+7
+9 versus 7
+Battle winner is Alex
+[TH, 3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC]
+4
+10
+4 versus 10
+Battle winner is Henry
+[3D, 5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH]
+9
+3
+9 versus 3
+Battle winner is Alex
+[5H, AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH]
+4
+5
+4 versus 5
+Battle winner is Henry
+[AH, AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H]
+8
+1
+8 versus 1
+Battle winner is Henry
+[AC, 8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH]
+4
+1
+4 versus 1
+Battle winner is Henry
+[8S, 8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC]
+1
+8
+1 versus 8
+Battle winner is Alex
+[8S, JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC]
+5
+8
+5 versus 8
+Battle winner is Henry
+[JH, JH, 4S, 4S, 4C, 4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S]
+11
+11
+WAR
+5 versus 4
+War winner is Alex
+Battle winner is Alex
+[4C, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S]
+2
+4
+2 versus 4
+Battle winner is Henry
+[4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C]
+10
+4
+10 versus 4
+Battle winner is Alex
+[AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C]
+7
+1
+7 versus 1
+Battle winner is Henry
+[5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC]
+6
+5
+6 versus 5
+Battle winner is Alex
+[JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC]
+4
+11
+4 versus 11
+Battle winner is Henry
+[TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS]
+12
+10
+12 versus 10
+Battle winner is Alex
+[KS, 6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS]
+4
+13
+4 versus 13
+Battle winner is Henry
+[6H, 7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS]
+7
+6
+7 versus 6
+Battle winner is Alex
+[7S, 5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS]
+5
+7
+5 versus 7
+Battle winner is Henry
+[5H, 8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S]
+12
+5
+12 versus 5
+Battle winner is Alex
+[8C, 5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S]
+3
+8
+3 versus 8
+Battle winner is Henry
+[5S, 7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C]
+9
+5
+9 versus 5
+Battle winner is Alex
+[7D, 8H, TC, 4H, TH, 4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C]
+7
+7
+WAR
+8 versus 10
+War winner is Henry
+Battle winner is Henry
+[4H, 5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S]
+11
+4
+11 versus 4
+Battle winner is Alex
+[5H, 8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S]
+11
+5
+11 versus 5
+Battle winner is Alex
+[8H, AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S]
+6
+8
+6 versus 8
+Battle winner is Henry
+[AH, 4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H]
+6
+1
+6 versus 1
+Battle winner is Henry
+[4C, AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH]
+11
+4
+11 versus 4
+Battle winner is Alex
+[AC, 5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH]
+11
+1
+11 versus 1
+Battle winner is Henry
+[5C, 8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC]
+6
+5
+6 versus 5
+Battle winner is Alex
+[8S, 2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC]
+6
+8
+6 versus 8
+Battle winner is Henry
+[2H, 4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S]
+5
+2
+5 versus 2
+Battle winner is Alex
+[4C, 7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S]
+5
+4
+5 versus 4
+Battle winner is Alex
+[7H, AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S]
+10
+7
+10 versus 7
+Battle winner is Alex
+[AC, 4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S]
+4
+1
+4 versus 1
+Battle winner is Henry
+[4H, JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC]
+6
+4
+6 versus 4
+Battle winner is Alex
+[JS, 4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC]
+5
+11
+5 versus 11
+Battle winner is Henry
+[4H, KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS]
+12
+4
+12 versus 4
+Battle winner is Alex
+[KS, 5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS]
+10
+13
+10 versus 13
+Battle winner is Henry
+[5S, 7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS]
+7
+5
+7 versus 5
+Battle winner is Alex
+[7S, 3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS]
+6
+7
+6 versus 7
+Battle winner is Henry
+[3C, 8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S]
+12
+3
+12 versus 3
+Battle winner is Alex
+[8C, 7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S]
+5
+8
+5 versus 8
+Battle winner is Henry
+[7C, 7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C]
+9
+7
+9 versus 7
+Battle winner is Alex
+[7D, 9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C]
+5
+7
+5 versus 7
+Battle winner is Henry
+[9H, 9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D]
+11
+9
+11 versus 9
+Battle winner is Alex
+[9H, 3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D]
+4
+9
+4 versus 9
+Battle winner is Henry
+[3D, 3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H]
+11
+3
+11 versus 3
+Battle winner is Alex
+[3D, AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H]
+5
+3
+5 versus 3
+Battle winner is Alex
+[AH, AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H]
+11
+1
+11 versus 1
+Battle winner is Henry
+[AH, 8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH]
+4
+1
+4 versus 1
+Battle winner is Henry
+[8S, 8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH]
+6
+8
+6 versus 8
+Battle winner is Henry
+[8S, 6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S]
+5
+8
+5 versus 8
+Battle winner is Henry
+[6C, 8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S]
+5
+6
+5 versus 6
+Battle winner is Henry
+[8H, 6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C]
+2
+8
+2 versus 8
+Battle winner is Henry
+[6C, AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H]
+5
+6
+5 versus 6
+Battle winner is Henry
+[AH, JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C]
+4
+1
+4 versus 1
+Battle winner is Henry
+[JD, AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH]
+10
+11
+10 versus 11
+Battle winner is Henry
+[AC, 6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD]
+7
+1
+7 versus 1
+Battle winner is Henry
+[6C, 8S, 4S, AC, 5C, JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC]
+6
+6
+WAR
+7 versus 5
+War winner is Alex
+Battle winner is Alex
+[JS, TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC]
+5
+11
+5 versus 11
+Battle winner is Henry
+[TS, KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS]
+12
+10
+12 versus 10
+Battle winner is Alex
+[KS, 6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS]
+3
+13
+3 versus 13
+Battle winner is Henry
+[6H, 7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS]
+9
+6
+9 versus 6
+Battle winner is Alex
+[7S, 5H, 8C, 5S, 7D, 4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS]
+7
+7
+WAR
+3 versus 7
+War winner is Henry
+Battle winner is Henry
+[4H, 9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D]
+5
+4
+5 versus 4
+Battle winner is Alex
+[9H, JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D]
+3
+9
+3 versus 9
+Battle winner is Henry
+[JD, AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H]
+6
+11
+6 versus 11
+Battle winner is Henry
+[AH, 4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD]
+6
+1
+6 versus 1
+Battle winner is Henry
+[4C, AH, 6C, 8S, 5C, 8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH]
+4
+4
+WAR
+4 versus 5
+War winner is Henry
+Battle winner is Henry
+[8S, 5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H]
+4
+8
+4 versus 8
+Battle winner is Henry
+[5C, 6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S]
+7
+5
+7 versus 5
+Battle winner is Alex
+[6C, 2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S]
+7
+6
+7 versus 6
+Battle winner is Alex
+[2H, 8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S]
+12
+2
+12 versus 2
+Battle winner is Alex
+[8H, 5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S]
+10
+8
+10 versus 8
+Battle winner is Alex
+[5C, 6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S]
+9
+5
+9 versus 5
+Battle winner is Alex
+[6C, 4C, AH, TS, JD, 7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S]
+6
+6
+WAR
+5 versus 11
+War winner is Henry
+Battle winner is Henry
+[7H, AC, 5S, JS, 3C, KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C]
+7
+7
+WAR
+10 versus 3
+War winner is Alex
+Battle winner is Alex
+[KS, 7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C]
+8
+13
+8 versus 13
+Battle winner is Henry
+[7C, 7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS]
+9
+7
+9 versus 7
+Battle winner is Alex
+[7S, JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS]
+5
+7
+5 versus 7
+Battle winner is Henry
+[JD, JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S]
+7
+11
+7 versus 11
+Battle winner is Henry
+[JD, 9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD]
+7
+11
+7 versus 11
+Battle winner is Henry
+[9H, 9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD]
+6
+9
+6 versus 9
+Battle winner is Henry
+[9H, JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H]
+6
+9
+6 versus 9
+Battle winner is Henry
+[JH, JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H]
+12
+11
+12 versus 11
+Battle winner is Alex
+[JH, 3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H]
+12
+11
+12 versus 11
+Battle winner is Alex
+[3D, 3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H]
+2
+3
+2 versus 3
+Battle winner is Henry
+[3D, 3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D]
+2
+3
+2 versus 3
+Battle winner is Henry
+[3D, 9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D]
+10
+3
+10 versus 3
+Battle winner is Alex
+[9H, 6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D]
+10
+9
+10 versus 9
+Battle winner is Alex
+[6H, JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D]
+9
+6
+9 versus 6
+Battle winner is Alex
+[JD, 6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D]
+7
+11
+7 versus 11
+Battle winner is Henry
+[6C, AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD]
+12
+6
+12 versus 6
+Battle winner is Alex
+[AH, 4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD]
+11
+1
+11 versus 1
+Battle winner is Henry
+[4H, 4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH]
+12
+4
+12 versus 4
+Battle winner is Alex
+[4C, 4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH]
+11
+4
+11 versus 4
+Battle winner is Alex
+[4H, 4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH]
+10
+4
+10 versus 4
+Battle winner is Alex
+[4H, QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH]
+3
+4
+3 versus 4
+Battle winner is Henry
+[QD, QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H]
+10
+12
+10 versus 12
+Battle winner is Henry
+[QD, QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD]
+9
+12
+9 versus 12
+Battle winner is Henry
+[QD, QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD]
+9
+12
+9 versus 12
+Battle winner is Henry
+[QD, 4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD]
+6
+12
+6 versus 12
+Battle winner is Henry
+[4H, 4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD]
+12
+4
+12 versus 4
+Battle winner is Alex
+[4H, 4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD]
+6
+4
+6 versus 4
+Battle winner is Alex
+[4H, 8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD]
+12
+4
+12 versus 4
+Battle winner is Alex
+[8S, 6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD]
+4
+8
+4 versus 8
+Battle winner is Henry
+[6H, 6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S]
+11
+6
+11 versus 6
+Battle winner is Alex
+[6C, 5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S]
+4
+6
+4 versus 6
+Battle winner is Henry
+[5H, 5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C]
+10
+5
+10 versus 5
+Battle winner is Alex
+[5H, 4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C]
+4
+5
+4 versus 5
+Battle winner is Henry
+[4H, 4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H]
+12
+4
+12 versus 4
+Battle winner is Alex
+[4H, 7D, 7D, 5C, 5C, 8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H]
+4
+4
+WAR
+4 versus 5
+War winner is Henry
+Battle winner is Henry
+[8H, KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H]
+11
+8
+11 versus 8
+Battle winner is Alex
+[KS, 5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H]
+6
+13
+6 versus 13
+Battle winner is Henry
+[5C, 7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS]
+10
+5
+10 versus 5
+Battle winner is Alex
+[7S, 7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS]
+5
+7
+5 versus 7
+Battle winner is Henry
+[7D, JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S]
+12
+7
+12 versus 7
+Battle winner is Alex
+[JD, 7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S]
+4
+11
+4 versus 11
+Battle winner is Henry
+[7H, JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD]
+11
+7
+11 versus 7
+Battle winner is Alex
+[JD, 6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD]
+8
+11
+8 versus 11
+Battle winner is Henry
+[6C, 9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD]
+10
+6
+10 versus 6
+Battle winner is Alex
+[9H, 6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD]
+5
+9
+5 versus 9
+Battle winner is Henry
+[6C, 9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H]
+12
+6
+12 versus 6
+Battle winner is Alex
+[9H, 2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H]
+7
+9
+7 versus 9
+Battle winner is Henry
+[2H, 3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H]
+11
+2
+11 versus 2
+Battle winner is Alex
+[3D, 2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H]
+7
+3
+7 versus 3
+Battle winner is Alex
+[2H, 3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H]
+10
+2
+10 versus 2
+Battle winner is Alex
+[3D, 7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H]
+6
+3
+6 versus 3
+Battle winner is Alex
+[7C, JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H]
+12
+7
+12 versus 7
+Battle winner is Alex
+[JD, JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H]
+6
+11
+6 versus 11
+Battle winner is Henry
+[JH, AH, 3D, 4H, TS, QD, 9H, QD, 9S, QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD]
+11
+11
+WAR
+WAR
+12 versus 9
+War winner is Alex
+War winner is Alex
+Battle winner is Alex
+[QD, 6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD]
+7
+12
+7 versus 12
+Battle winner is Henry
+[6H, QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD]
+11
+6
+11 versus 6
+Battle winner is Alex
+[QD, 4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD]
+11
+12
+11 versus 12
+Battle winner is Henry
+[4H, 8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD]
+2
+4
+2 versus 4
+Battle winner is Henry
+[8S, 4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H]
+2
+8
+2 versus 8
+Battle winner is Henry
+[4C, 6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S]
+7
+4
+7 versus 4
+Battle winner is Alex
+[6C, 4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S]
+7
+6
+7 versus 6
+Battle winner is Alex
+[4H, 5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S]
+3
+4
+3 versus 4
+Battle winner is Henry
+[5H, 4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H]
+3
+5
+3 versus 5
+Battle winner is Henry
+[4H, 4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H]
+10
+4
+10 versus 4
+Battle winner is Alex
+[4H, 6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H]
+10
+4
+10 versus 4
+Battle winner is Alex
+[6C, 6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H]
+2
+6
+2 versus 6
+Battle winner is Henry
+[6C, 4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C]
+2
+6
+2 versus 6
+Battle winner is Henry
+[4H, 4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C]
+6
+4
+6 versus 4
+Battle winner is Alex
+[4H, QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C]
+6
+4
+6 versus 4
+Battle winner is Alex
+[QH, QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C]
+3
+12
+3 versus 12
+Battle winner is Henry
+[QH, 4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH]
+3
+12
+3 versus 12
+Battle winner is Henry
+[4H, 4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH]
+12
+4
+12 versus 4
+Battle winner is Alex
+[4H, 6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH]
+12
+4
+12 versus 4
+Battle winner is Alex
+[6H, KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH]
+11
+6
+11 versus 6
+Battle winner is Alex
+[KS, 5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH]
+6
+13
+6 versus 13
+Battle winner is Henry
+[5H, 7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS]
+7
+5
+7 versus 5
+Battle winner is Alex
+[7S, 4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS]
+4
+7
+4 versus 7
+Battle winner is Henry
+[4H, JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S]
+7
+4
+7 versus 4
+Battle winner is Alex
+[JD, 8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S]
+6
+11
+6 versus 11
+Battle winner is Henry
+[8H, JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD]
+10
+8
+10 versus 8
+Battle winner is Alex
+[JD, 5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD]
+4
+11
+4 versus 11
+Battle winner is Henry
+[5C, 9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD]
+10
+5
+10 versus 5
+Battle winner is Alex
+[9H, 7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD]
+4
+9
+4 versus 9
+Battle winner is Henry
+[7D, 9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H]
+6
+7
+6 versus 7
+Battle winner is Henry
+[9H, 6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D]
+4
+9
+4 versus 9
+Battle winner is Henry
+[6C, JD, 7C, QD, JH, QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H]
+6
+6
+WAR
+12 versus 11
+War winner is Alex
+Battle winner is Alex
+[QD, 2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H]
+4
+12
+4 versus 12
+Battle winner is Henry
+[2H, 4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD]
+11
+2
+11 versus 2
+Battle winner is Alex
+[4H, 2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD]
+6
+4
+6 versus 4
+Battle winner is Alex
+[2H, 8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD]
+7
+2
+7 versus 2
+Battle winner is Alex
+[8S, 3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD]
+5
+8
+5 versus 8
+Battle winner is Henry
+[3D, 4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S]
+7
+3
+7 versus 3
+Battle winner is Alex
+[4H, 3D, 5H, 2H, 6C, 2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S]
+4
+4
+WAR
+5 versus 6
+War winner is Henry
+Battle winner is Henry
+[2H, 6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C]
+6
+2
+6 versus 2
+Battle winner is Alex
+[6C, 3D, QH, 3D, QH, 6H, KS, 4C, 7S, 6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C]
+6
+6
+WAR
+WAR
+12 versus 7
+War winner is Alex
+War winner is Alex
+Battle winner is Alex
+[6C, JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C]
+11
+6
+11 versus 6
+Battle winner is Alex
+[JD, 4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C]
+2
+11
+2 versus 11
+Battle winner is Henry
+[4H, JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD]
+6
+4
+6 versus 4
+Battle winner is Alex
+[JD, 4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD]
+4
+11
+4 versus 11
+Battle winner is Henry
+[4H, 9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD]
+7
+4
+7 versus 4
+Battle winner is Alex
+[9H, 6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD]
+2
+9
+2 versus 9
+Battle winner is Henry
+[6C, 7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H]
+7
+6
+7 versus 6
+Battle winner is Alex
+[7D, 4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H]
+3
+7
+3 versus 7
+Battle winner is Henry
+[4H, 9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D]
+6
+4
+6 versus 4
+Battle winner is Alex
+[9H, 4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D]
+2
+9
+2 versus 9
+Battle winner is Henry
+[4H, QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H]
+6
+4
+6 versus 4
+Battle winner is Alex
+[QD, 5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H]
+6
+12
+6 versus 12
+Battle winner is Henry
+[5H, 8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD]
+4
+5
+4 versus 5
+Battle winner is Henry
+[8S, 4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H]
+4
+8
+4 versus 8
+Battle winner is Henry
+[4H, 4H, TS, TS, 8H, 8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+4
+4
+WAR
+12 versus 8
+War winner is Alex
+Battle winner is Alex
+[8H, TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+8
+12 versus 8
+Battle winner is Alex
+[TS, TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+4
+10
+4 versus 10
+Battle winner is Henry
+[TS, 5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS]
+4
+10
+4 versus 10
+Battle winner is Henry
+[5C, 5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS]
+4
+5
+4 versus 5
+Battle winner is Henry
+[5C, 2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C]
+4
+5
+4 versus 5
+Battle winner is Henry
+[2H, JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C]
+12
+2
+12 versus 2
+Battle winner is Alex
+[JD, 4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C]
+12
+11
+12 versus 11
+Battle winner is Alex
+[4H, JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C]
+12
+4
+12 versus 4
+Battle winner is Alex
+[JD, 2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C]
+12
+11
+12 versus 11
+Battle winner is Alex
+[2H, 9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C]
+11
+2
+11 versus 2
+Battle winner is Alex
+[9H, 3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C]
+6
+9
+6 versus 9
+Battle winner is Henry
+[3D, 7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H]
+6
+3
+6 versus 3
+Battle winner is Alex
+[7D, 2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H]
+4
+7
+4 versus 7
+Battle winner is Henry
+[2H, 9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D]
+7
+2
+7 versus 2
+Battle winner is Alex
+[9H, 6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D]
+4
+9
+4 versus 9
+Battle winner is Henry
+[6C, QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H]
+7
+6
+7 versus 6
+Battle winner is Alex
+[QD, 4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H]
+6
+12
+6 versus 12
+Battle winner is Henry
+[4H, 5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD]
+6
+4
+6 versus 4
+Battle winner is Alex
+[5H, 4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD]
+4
+5
+4 versus 5
+Battle winner is Henry
+[4H, 8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H]
+6
+4
+6 versus 4
+Battle winner is Alex
+[8S, 4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H]
+4
+8
+4 versus 8
+Battle winner is Henry
+[4H, TS, 4H, TS, 4H, 5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+4
+4
+WAR
+12 versus 4
+War winner is Alex
+Battle winner is Alex
+[5C, 4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+5
+12 versus 5
+Battle winner is Alex
+[4H, 5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+4
+12 versus 4
+Battle winner is Alex
+[5C, 6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+5
+12 versus 5
+Battle winner is Alex
+[6C, 9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+6
+12 versus 6
+Battle winner is Alex
+[9H, 4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+9
+12 versus 9
+Battle winner is Alex
+[4H, 7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+4
+12 versus 4
+Battle winner is Alex
+[7D, 4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+8
+7
+8 versus 7
+Battle winner is Alex
+[4H, 9H, 6C, QD, 4H, 5H, 4H, 8S]
+12
+4
+12 versus 4
+Battle winner is Alex
+[9H, 6C, QD, 4H, 5H, 4H, 8S]
+2
+9
+2 versus 9
+Battle winner is Henry
+[6C, QD, 4H, 5H, 4H, 8S, 2H, 9H]
+12
+6
+12 versus 6
+Battle winner is Alex
+[QD, 4H, 5H, 4H, 8S, 2H, 9H]
+11
+12
+11 versus 12
+Battle winner is Henry
+[4H, 5H, 4H, 8S, 2H, 9H, JD, QD]
+12
+4
+12 versus 4
+Battle winner is Alex
+[5H, 4H, 8S, 2H, 9H, JD, QD]
+4
+5
+4 versus 5
+Battle winner is Henry
+[4H, 8S, 2H, 9H, JD, QD, 4H, 5H]
+12
+4
+12 versus 4
+Battle winner is Alex
+[8S, 2H, 9H, JD, QD, 4H, 5H]
+11
+8
+11 versus 8
+Battle winner is Alex
+[2H, 9H, JD, QD, 4H, 5H]
+11
+2
+11 versus 2
+Battle winner is Alex
+[9H, JD, QD, 4H, 5H]
+2
+9
+2 versus 9
+Battle winner is Henry
+[JD, QD, 4H, 5H, 2H, 9H]
+6
+11
+6 versus 11
+Battle winner is Henry
+[QD, 4H, 5H, 2H, 9H, 6H, JD]
+3
+12
+3 versus 12
+Battle winner is Henry
+[4H, 5H, 2H, 9H, 6H, JD, 3D, QD]
+7
+4
+7 versus 4
+Battle winner is Alex
+[5H, 2H, 9H, 6H, JD, 3D, QD]
+2
+5
+2 versus 5
+Battle winner is Henry
+[2H, 9H, 6H, JD, 3D, QD, 2H, 5H]
+7
+2
+7 versus 2
+Battle winner is Alex
+[9H, 6H, JD, 3D, QD, 2H, 5H]
+6
+9
+6 versus 9
+Battle winner is Henry
+[6H, JD, 3D, QD, 2H, 5H, 6C, 9H]
+6
+6
+WAR
+4 versus 2
+War winner is Alex
+Battle winner is Alex
+[5H, 6C, 9H]
+4
+5
+4 versus 5
+Battle winner is Henry
+[6C, 9H, 4H, 5H]
+4
+6
+4 versus 6
+Battle winner is Henry
+[9H, 4H, 5H, 4H, 6C]
+4
+9
+4 versus 9
+Battle winner is Henry
+[4H, 5H, 4H, 6C, 4H, 9H]
+4
+4
+WAR
+12 versus 4
+War winner is Alex
+Battle winner is Alex
+[9H]
+12
+9
+12 versus 9
+Battle winner is Alex
+
+[QH, 5C, QH, 4H, QH, 5C, QH, 6C, QH, 9H, QH, 4H, 8H, 7D, QH, 4H, QH, 6C, QH, 4H, QH, 4H, JD, 8S, JH, 2H, 7H, 4H, 7H, 2H, 6C, 6H, 4H, 4H, 6C, 6C, 4H, 4H, 4H, 4H, 4H, 4H, 4H, 4H, 4H, 4H, 4H, 4H, QH, QH, QH, 9H]
+
+AS
+[AS, TC]
+Alex

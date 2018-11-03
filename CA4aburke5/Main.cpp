@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include "LLC.h"
 #include "PlayingCard.h"
+#include "Player.h"
+#include "Game.h"
+//#define _GLIBCXX_USE_CXX11_ABI 0
 #include <vector>
 using namespace std;
 
@@ -10,7 +13,22 @@ int main(){
 	PlayingCard* ace = new PlayingCard(1,SPADES);
 	PlayingCard* ten = new PlayingCard(10,CLUBS);
 
-	cout<<*ace;
+	LLC<PlayingCard>* deck = new LLC<PlayingCard>();
+	deck->insert(*ace);
+	deck->insert(*ten);
+
+	string name1= "Alex";
+	string name2 = "Henry";
+	Player* alex = new Player("Alex");
+	Player* henry = new Player("Henry");
+
+	Game* game = new Game(alex,henry);
+	//game->shuffleDeck();
+	Player* winner = game->play();
+	
+	//cout<<*ace<<endl;
+	//cout<<*deck<<endl;
+	cout<<winner->name<<endl;
 	/*
 	LLC* list1 = new LLC();
 	for(int i = 0; i<5;i++){
@@ -49,3 +67,7 @@ int main(){
 	*/
 	return 0;
 }
+/*
+int tournament(int numOfPlayers){
+	
+}*/
