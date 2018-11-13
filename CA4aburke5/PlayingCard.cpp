@@ -9,6 +9,10 @@ PlayingCard::PlayingCard(int value, Suit suit){
 	this->suit = suit;
 }
 
+/*PlayingCard::~PlayingCard(){
+	delete &suit;
+	}
+*/
 ostream& operator<<(ostream& out, const PlayingCard& p){
 	
 	if(p.value!=1 && p.value<10){
@@ -40,7 +44,7 @@ bool PlayingCard:: operator==(const PlayingCard &p2){
 }
 
 bool PlayingCard:: operator>(const PlayingCard &p2){
-	cout<<this->value<<" versus "<<p2.value<<endl;
+//	cout<<this->value<<" versus "<<p2.value<<endl;
 	if(this->value==1 && p2.value!=1)
 		return true;
 	if(p2.value==1)

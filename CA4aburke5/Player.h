@@ -13,9 +13,11 @@ class Player{
 	public:
 		LLC<PlayingCard>* cards = new LLC<PlayingCard>;
 		string name;
-
-		Player(string myName);
+		int gamesWon=0;
+		int randomNum;
+		Player(string myName,int rand);
 		Player(LLC<PlayingCard>* myCards, string myName);
+		~Player();
 		friend ostream& operator<<(ostream& out, const Player& l);
 		
 };
