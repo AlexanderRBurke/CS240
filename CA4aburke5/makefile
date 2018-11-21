@@ -7,8 +7,8 @@ all:	war
 run: all
 	./war
 
-war: PlayingCard.o Player.o Game.o Main.o
-	$(CC) $(CFLAGS) Game.o PlayingCard.o Player.o Main.o -o war  
+war: PlayingCard.o Player.o Game.o Tournament.o Main.o
+	$(CC) $(CFLAGS) Game.o PlayingCard.o Player.o Tournament.o Main.o -o war  
 
 #LLC.o:	LLC.h LLC.cpp
 #	$(CC) $(CFLAGS) -c LLC.cpp -o LLC.o
@@ -17,13 +17,16 @@ war: PlayingCard.o Player.o Game.o Main.o
 PlayingCard.o: PlayingCard.h PlayingCard.cpp
 	$(CC) $(CFLAGS) -c PlayingCard.cpp -o PlayingCard.o
 
-Player.o: Player.h Player.cpp
+Player.o: LLC.h Player.h Player.cpp
 	$(CC) $(CFLAGS) -c Player.cpp -o Player.o
 
-Game.o: Player.h Game.h Game.cpp
+Game.o: LLC.h Player.h Game.h Game.cpp
 	$(CC) $(CFLAGS) -c Game.cpp -o Game.o
 
-Main.o:	Main.cpp
+Tournament.o: LLC.h Tournament.h Tournament.cpp
+	$(CC) $(CFLAGS) -c Tournament.cpp -o Tournament.o
+
+Main.o:	LLC.h Main.cpp
 	$(CC) $(CFLAGS) -c Main.cpp -o Main.o
 
 clean:

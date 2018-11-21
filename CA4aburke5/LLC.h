@@ -3,6 +3,10 @@
 #include <iostream>
 #include <stdlib.h>
 #include <vector>
+#include <cstdlib>
+#include <ctime>
+#include <iostream>
+#include <type_traits>
 
 using namespace std;
 
@@ -23,9 +27,15 @@ class Node{
 		T data;
 		Node<T> *next= nullptr;
 		Node<T>();
+		~Node<T>(); 
 };
 template <class T>
 Node<T>::Node(){}
+template <class T>
+Node<T>::~Node(){
+	//delete &data;
+
+}
 template <class T>
 class LLC{
 
@@ -42,7 +52,7 @@ class LLC{
 		bool contains(const T &str);
 		bool insert(const T &str);
 		void remove(const T &str);
-		void shuffle();
+		void shuffle(int time);
 		LLC& operator +(const LLC &l);
 		void head(int n);
 		T tail();
@@ -113,11 +123,14 @@ LLC<T>::~LLC(){
 		//cout<<"deconstructing"<<endl;
 		Node<T> *tempNext = first->next;
 		while(tempNext!=nullptr){
+			//	cout<<first->data<<endl;
+			//	cout<<first->next->data<<endl;
 			delete first;
 			first = tempNext;
 			tempNext = first->next;
 		}
 		delete first;
+		//cout<<"here"<<endl;
 		first=nullptr;
 		last=nullptr;
 	}
@@ -159,6 +172,7 @@ bool LLC<T>::insert(const T &str){
 		last=tempNode;
 		return true;
 	}
+	//delete tempNode;
 	return false;
 }
 
@@ -196,7 +210,8 @@ void LLC<T>::remove(const T &str){
 	}
 }
 template <class T>
-void LLC<T>::shuffle(){
+void LLC<T>::shuffle(int time){
+	srand(time);
 	vector<Node<T>*> vect;
 
 	Node<T> *tempFirst = first;
@@ -216,8 +231,10 @@ void LLC<T>::shuffle(){
 	Node<T> *tempNext = tempFirst->next;
 	unsigned int size = vect.size();
 	for(unsigned int i =0; i<size;i++){
-		srand(time(NULL));
-		int r = (rand() % vect.size());
+		srand(time);
+		//for(int i=0;i<4;i++)
+		//	cout<<i<<" rand(): "<<rand()<<endl;
+		int r = (time % vect.size());
 		if(i==0){
 			first = vect.at(r);
 			//tempNext = first->next;
@@ -369,6 +386,7 @@ template <class T>
 Node<T>* LLC<T>:: pop(){
 	if(getFirst()!=nullptr){
 		Node<T>* temp = getFirst();
+		//cout<<(first->data)<<endl;
 		first = first->next;
 		return temp;}
 	return nullptr;

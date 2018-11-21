@@ -2,6 +2,7 @@
 #define H_PlayingCard_H
 #include <iostream>
 #include <stdlib.h>
+#include <fstream>
 
 
 using namespace std;
@@ -12,6 +13,7 @@ class PlayingCard{
 	public:
 		PlayingCard();
 		PlayingCard(int value,Suit suit);
+		//~PlayingCard();
 		friend ostream& operator<<(ostream& out, const PlayingCard& p);
 		bool operator==(const PlayingCard &p2); 
 		bool operator>(const PlayingCard &p2); 
