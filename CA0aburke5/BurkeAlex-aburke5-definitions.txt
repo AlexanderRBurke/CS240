@@ -1,0 +1,11 @@
+mkdir- This command is used to make directrory(ies) if they do not already exists. It has modifiers which may change the file mode, may make parents as needed, print a message for each created dir, ect.
+
+find- This command searches for files in a specified hierarchy. It will continue searching lower directories until the file is found or it has reached the bottom directory.
+
+make-This command will automatically determine the pieces of a large program that require recompiling and will call the command to recompile them. To use it, one must first creat a makefile that dictates its function.
+
+mv- This command moves, or renames, files. The user must specify the source and destination. Also, the user may add optional flags which control overwriting, backups, updating, ect.
+
+more- This command is used to filter for paging through text via singular screenfuls. It can be modified with flags which control pausing, line counting, scrolling, ect. 
+
+

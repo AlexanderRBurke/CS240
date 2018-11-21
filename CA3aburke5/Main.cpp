@@ -35,5 +35,9 @@ int main(){
 	*list1=*list2;
 	cout<<*list1<<endl;
 	cout<<"test"<<endl;
+
+	delete list1;
+	delete list2;
+	delete list3;
 	return 0;
 }

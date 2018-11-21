@@ -31,7 +31,7 @@ LLC::LLC( const LLC &l){
 
 LLC LLC::operator =(const LLC &l){
 	//cout<<"here"<<endl;
-        delete this;	
+        this->~LLC();	
 	//cout<<"after delete"<<endl;
 	first=nullptr;
 	last=nullptr;

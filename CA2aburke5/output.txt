@@ -1,0 +1,82 @@
+
+Enter a command. 
+Choose from ["Login" "New"   "Report" "Save" "Load" "Quit"]
+: 
+Userid: : 
+Last Name: First Name: Age: House Number: Street Name: Town: Zip Code: Password: 
+Enter a command. 
+Choose from ["Login" "New"   "Report" "Save" "Load" "Quit"]
+: 
+Userid: : 
+Password: 
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+Enter Amount to Donate: $99.00 donated.
+
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+burke $99.00
+
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+Current password: : 
+New password: : 
+Enter new password again: 
+Password change successful! 
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+Donor Info:
+alex burke: age 18
+6 New hwy
+commack 11725
+Current Amount Donated: $99.00
+
+
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+Last Name is currently: burke
+First Name is currently: alex
+Age is currently: 18
+19House Number is currently: 6
+6Street Name is currently: New hwy
+Town is currently: commack
+commackZip Code is currently: 11725
+
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+Donor Info:
+alex burkey: age 19
+6 New hwy
+commack 11725
+Current Amount Donated: $99.00
+
+
+Enter a command. 
+Choose from ["Update" "Passwd"   "Report" "View" "Donate" "Logout"]
+: 
+Enter a command. 
+Choose from ["Login" "New"   "Report" "Save" "Load" "Quit"]
+: 
+Userid: : 
+Last Name: First Name: Age: House Number: Street Name: Town: Zip Code: Password: 
+Enter a command. 
+Choose from ["Login" "New"   "Report" "Save" "Load" "Quit"]
+: 
+There are 2 voters in the database, contributing a total of $99.00
+
+Enter a command. 
+Choose from ["Login" "New"   "Report" "Save" "Load" "Quit"]
+Where should the database be saved? 
+Do you want to overwrite the file with the same name? [y/n]
+saved aburke
+saved aburke5
+
+Enter a command. 
+Choose from ["Login" "New"   "Report" "Save" "Load" "Quit"]
+: 
