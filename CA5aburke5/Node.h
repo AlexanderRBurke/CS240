@@ -3,23 +3,26 @@
 #include <iostream>
 #include <stdlib.h>
 #include <vector>
+#include "Edge.h"
 
 using namespace std;
 
 class Node{
 	public:
-		string depCity;
-		string destCity;
-		Time depTime;
-		Time arrTime;
-		float cost;
-		vector<Edge> edges;
+                string name;
+                vector<Edge> edges;
 
-
-		//Node *next= nullptr;
-		Node();
+                void insertEdge(Edge edge); 
+                //Node *next= nullptr;
+                Node(string name);
 };
 
+void Node::insertEdge(Edge edge){
+    edges.insert(edge);
+}
 
+Node::Node(string name){
+    this->name = name;
+}
 
 #endif
