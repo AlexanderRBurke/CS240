@@ -13,3 +13,8 @@ class Time{
 		bool isAM;
 
 }
+
+
+
+
+#endif
