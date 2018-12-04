@@ -182,16 +182,30 @@ int main(int argc, char **argv){
                 }
                 /// cout<<source.pi<<endl;
                 source.visited=2;
-                Node* tempNode = que.front();
-                que.pop();
-                while(tempNode->name!=destCity){
+                cout<<que.size()<<endl;
+                Node* tempNode;
+                while(que.size()>0){
+                        cout<<que.size()<<endl;
+                        tempNode = que.front();
+                        que.pop();
                         for(unsigned int i=0; i<tempNode->edges.size();i++){ //unsigned??
                                 Node* nextNode = &graph[tempNode->edges[i].destCity];
-                                if(nextNode->visited==0 && nextNode->pi ==nullptr){
+                                if(nextNode->visited==0 && tempNode->piFlight->arrTime<tempNode->edges[i].depTime){
                                         nextNode->pi = tempNode;
                                         nextNode->piFlight = &tempNode->edges[i];
                                         nextNode->visited = 1;
+                                        nextNode->dist=tempNode->dist+(tempNode->edges[i].arrTime-tempNode->edges[i].depTime);
                                         que.push(nextNode);
+                                }
+                                else if(nextNode->visited==1 && tempNode->piFlight->arrTime<tempNode->edges[i].depTime){
+                                        if(tempNode->dist+(tempNode->edges[i].arrTime-tempNode->edges[i].depTime)<nextNode->dist){
+                                                nextNode->pi = tempNode;
+                                                nextNode->piFlight = &tempNode->edges[i];
+                                                nextNode->visited = 1;
+                                                nextNode->dist=tempNode->dist+(tempNode->edges[i].arrTime-tempNode->edges[i].depTime);
+                                                que.push(nextNode);
+
+                                        } 
                                 }
                         }
                         tempNode->visited =2;
