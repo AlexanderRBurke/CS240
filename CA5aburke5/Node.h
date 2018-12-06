@@ -43,4 +43,5 @@ ostream& operator<<(ostream& out, const Node& n){
         out<<n.name;
         return out; 
 }
+
 #endif

@@ -18,6 +18,7 @@ class Edge{
                 int timeNum (string time) const;
                 string timeString (int time) const;
                 friend ostream& operator<<(ostream& out, const Edge& e);
+                bool operator < (const Edge& e) const;
 
                 Edge(string depCity, string destCity,string depTime, string arrTime, string cost);
 
@@ -86,4 +87,7 @@ string Edge::timeString(int time) const{
         return retStr;
 }
 
+bool Edge::operator < (const Edge& e) const{
+  return (arrTime<e.arrTime);
+}
 #endif
